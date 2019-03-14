@@ -1,1 +1,4 @@
-# OSLS_2019_CLA_Demo
+# OSLS 2019
+
+Sample Repository for CLA Assistant Demo at OSLS 2019.
+
